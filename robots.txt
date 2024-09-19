@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tinylvel.github.io/sitemap.html.gz
+Sitemap: https://tinylvel.github.io/app/sitemap.html.gz
+Sitemap: https://tinylvel.github.io/assets/sitemap.html.gz
+Sitemap: https://tinylvel.github.io/css/sitemap.html.gz
+Sitemap: https://tinylvel.github.io/data/sitemap.html.gz
+Sitemap: https://tinylvel.github.io/includes/sitemap.html.gz
+Sitemap: https://tinylvel.github.io/item/sitemap.html.gz
+Sitemap: https://tinylvel.github.io/src/sitemap.html.gz
